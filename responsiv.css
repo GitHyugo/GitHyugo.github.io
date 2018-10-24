@@ -149,7 +149,7 @@ footer p.top{
   }
 
   section article h1{
-    font-size: 44px;
+    font-size: 20px;
   }
 
   section article{
@@ -167,6 +167,17 @@ footer p.top{
   footer p{
 
     font-size: 14px;
+
+  }
+
+  figure.cats{
+
+    width: 90%;
+    margin-left: 5%;
+    float:none;
+    margin-top: 50px;
+    border: solid 5px #FFD9CE;
+    margin-bottom: 50px;
 
   }
 
