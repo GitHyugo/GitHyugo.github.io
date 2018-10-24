@@ -154,14 +154,14 @@ footer p.top{
 
   section article{
     margin-left: 5%;
-    width: 42.5%;
+    width: 90%;
     float: none;
 
 
   }
   nav ul li a{
 
-    font-size: 30;
+    font-size: 30px;
   }
 
   footer p{
@@ -177,10 +177,19 @@ footer p.top{
 
 section article{
 
-  width:90%;
+  width:100%;
   float: none;
+  margin-left: 5%
 
 
 }
+figure.cats{
+
+  width: 90%;
+  margin-left: 5%;
+  float:none;
+  margin-top: 50px;
+  border: solid 5px #FFD9CE;
+  margin-bottom: 50px;
 
 }
